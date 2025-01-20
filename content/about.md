@@ -46,15 +46,12 @@ title: 关于
 - 手机/WeChat/QQ：就不告诉你
 - Telegram/微博/Facebook/Twitter/Instagram：没有/几乎没有
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
-- Gitee：[chlorine3545](https://gitee.com/chlorine3545)
 - Codeberg：[chlorine3545](https://codeberg.org/chlorine3545)
 - GoToSocial：[@yoghurtlee](https://scg.owu.one/@yoghurtlee)
 - Matrix：@chlorine:mtx.owu.one
 - [Jami](https://jami.net)：chlorine3545
 - 邮箱（请将 [at] 替换为 @）：`hi[at]chlor.me`。
-- 博客订阅
-    - RSS 订阅：点击[这里](/index.xml)。
-    - 邮件订阅（Quail）：点击[这里](https://quail.ink/yoghurtlee)（目前 Quail Newsletter 暂停更新，恢复时间待定）。
+- RSS 订阅：点击[这里](/index.xml)。
 - 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
 
 > [!IMPORTANT]
@@ -84,7 +81,7 @@ WSmeXSN44dSgE49a71r5/UjYsnH1Bw==
 
 ### 📜 基本信息
 
-园子是个静态小岛（博客），基础架构采用 [Hugo](https://gohugo.io)，主题为 Efímero（小氯自己魔改自 Landscape 的主题），由大善人 [Vercel](https://www.vercel.com/) 进行填海造陆，由另外一位大善人 [CloudFlare](https://www.cloudflare.com/) 负责 DNS 解析。
+园子是个静态小岛（博客），基础架构采用 [Hugo](https://gohugo.io)，主题为小氯自己开发的 [Hermeneutics](https://github.com/chlorine3545/hugo-theme-hermeneutics)，由大善人 [Vercel](https://www.vercel.com/) 进行填海造陆，由另外一位大善人 [CloudFlare](https://www.cloudflare.com/) 负责 DNS 解析。
 
 Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 
@@ -153,6 +150,9 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
     - 交互式公安备案再次完成，非常滴漂亮~（零桑音）。
 - 约 2025 年 1 月
     - 博客域名更换为 <https://chlor.me>。
+- 2025 年 1 月 20 日
+    - 博客主题改为「Hermeneutics」。
+    - **园子正式开源**。
 
 ## 🤝 用户协议
 

@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chlor.me/'
 languageCode = 'zh-cn'
 title = '园子里的日光'
 theme = 'hermeneutics'
@@ -169,10 +169,6 @@ enableCsrf = true
         [params.comments.artalk]
             serverURL = ""
             siteId = ""
-
-    [params.search]
-        enable = true
-        type = "algolia" # 计划支持 Algolia、Algolia Docsearch、Meilisearch、Lunr.js 和引擎搜索（如 Google Custom Search）
 
     [params.beian]
         icp = "京ICP备2024074926号-5"
