@@ -1,0 +1,3 @@
+[submodule "themes/hermeneutics"]
+	path = themes/hermeneutics
+	url = https://github.com/chlorine3545/hugo-theme-hermeneutics.git
