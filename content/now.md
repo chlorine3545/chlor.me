@@ -4,8 +4,6 @@ date: 2024-01-26
 slug: now
 ---
 
-# 如今
-
 老友，很高兴您能前来。我是 Chlorine（小氯），园子的主人和普通居民，也是「紫荆公寓」的舍长。这里是园子的「如今」页面，也称：
 
 > 某只小氯酱的精神状态信息公示板
@@ -26,6 +24,8 @@ Now Page，我将其翻译为「如今」页面，是一个总结当前的生活
 
 我的网站有另外一个页面——「[碎语](/whisper)」，这个页面基于 GoToSocial（一个类似 Mastodon 的轻量级联邦社交软件）的 API 搭建，你可以理解为嵌入博客的 VX 朋友圈 / QQ 空间 / X（Twitter） / Facebook / TG Channel etc.
 
+（更新：由于博客主题的更新，碎语页面暂时停用）
+
 这个页面的好处是可以随时随地分享生活，而缺点正如 Derek 所说的：**这些碎片化的分享拼不出生活的大局**。
 
 > Think of **what you’d tell a friend you hadn’t seen in a year**.
@@ -44,7 +44,7 @@ Derek 在 NowNowNow 中对如今页面的作用等做出了很详细的解释。
 
 ### 最近更新时间
 
-西历 2025 年 1 月 15 日。
+西历 2025 年 1 月 21 日。
 
 ## Basic Info
 
@@ -56,9 +56,9 @@ Derek 在 NowNowNow 中对如今页面的作用等做出了很详细的解释。
 
 ### 园子
 
-园子（博客）目前使用 [Hugo](https://gohugo.io) 框架，使用 Efímero 主题（基于 Hugo Theme Lancscape 魔改，由于修改得实在是稀碎，因此暂未开源）。托管平台为 [Vercel](https://vercel.com) 和 [GitHub](https://github.com)，DNS 服务商为 [CloudFlare](https://cloudflare.com)。
+园子（博客）目前使用 [Hugo](https://gohugo.io) 框架，使用自行开发的 [Hermeneutics](https://github.com/chlorine3545/hugo-theme-hermeneutics) 主题。托管平台为 [Vercel](https://vercel.com) 和 [GitHub](https://github.com)，DNS 服务商为 [CloudFlare](https://cloudflare.com)。
 
-图片托管基于[又拍云](https://upyun.com)和 CloudFlare R2 对象存储，公共静态资源（例如 JavaScript）加速基于 jsDelivr Gcore 和智云加速，评论基于 [Twikoo](https://twikoo.js.org) 最新版本，搜索服务基于 [Algolia Docsearch](https://docsearch.algolia.com/)。
+图片托管基于[又拍云](https://upyun.com)和 CloudFlare R2 对象存储，公共静态资源（例如 JavaScript）加速基于 jsDelivr 及其国内镜像，评论基于 [Twikoo](https://twikoo.js.org) 最新版本。
 
 园子目前已经完成 ICP 备案和公安备案，获得了官方的合规性认证（~~打今儿个起，咱又有了旗籍了！~~）。Vercel 和 CloudFlare 等的免费服务完全足够使用（且应当可以长期持续），并且小氯目前的零花钱续费域名应该没有问题，因此各位老友无须担心园子是否能够长期运行。
 
@@ -74,9 +74,21 @@ Derek 在 NowNowNow 中对如今页面的作用等做出了很详细的解释。
 
 ## 在忙啥捏
 
-### 摆烂！
+### 学习 Python
 
-小氯考完期末只做三件事，摆烂，摆烂，还是他喵的摆烂！
+~~小氯考完期末只做三件事，摆烂，摆烂，还是他喵的摆烂！~~
+
+摆烂摆得差不多了，也该继续学习了。
+
+小氯思考了一下，不管将来在哪个领域讨生活，估计都要会一点机器学习的东西。既然要学 ML，那么第一步就是经典机器学习的内容，那么就需要会一定的 Python。所以，动手吧。
+
+### 补习数学
+
+小氯在大一学的线性代数，虽然说拿了个 A，但是学得稀烂。由于 ML 和下学期课程的需要，还是要补习一下概率论和线代的内容的。
+
+### 练习科目二
+
+字面意思。由于时间不够，小氯这段时间把大量的精力都投入了练车。
 
 ### 筹备园子一周年
 
@@ -85,6 +97,7 @@ Derek 在 NowNowNow 中对如今页面的作用等做出了很详细的解释。
 目前大概有这么几个打算：
 
 - [x] 更换一个域名（应该还是希望备案下，当然不备案也行）
+- [x] 新的博客主题「Hermeneutics」
 - [ ] 搭建一套完善的博客编写和发布流程
 - [ ] Viento（园子的服务系统）
     - [ ] Nieve（图片服务）
@@ -93,11 +106,7 @@ Derek 在 NowNowNow 中对如今页面的作用等做出了很详细的解释。
     - [ ] ……
 - [ ] 给小氯和 Info 酱搓个人设（bushi）
 
-小氯会把这些折腾的过程记录下来~~用来水更新字数~~，并整理为一个系列，暂时定名为《[理想乡构筑手记](/categories/理想乡构筑手记)》。「理想乡」是园子的英文名称「Chlorine's Eutopia」中「Eutopia」的翻译。这个系列的最后一篇，将是小氯 2024 的年终总结。
-
-### 开发 Hugo 主题
-
-实话说，小氯感觉自己改的 Efímero 颜值还是不错的，不过看久了，还是容易审美疲劳。而众所周知，小氯是一个 [Shadcn](https://ui.shadcn.com) 风格的极端爱好者，那么开发一个 Shadcn 风格的 Hugo 主题自然就是最佳选择。
+小氯会把这些折腾的过程记录下来~~用来水更新字数~~，并整理为一个系列，暂时定名为《[理想乡构筑手记](/series/理想乡构筑手记)》。「理想乡」是园子的英文名称「Chlorine's Eutopia」中「Eutopia」的翻译。这个系列的最后一篇，将是小氯 2024 的年终总结。
 
 ## 在读的书
 
