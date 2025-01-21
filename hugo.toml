@@ -64,7 +64,7 @@ enableCsrf = true
         name = "Chlorine"
         homepage = "https://chlor.me"
         bio = "Como el viento."
-        avatar = "/img/avatar.jpg"
+        avatar = "/img/avatar.webp"
         tags = [
             "Undergraduate @ THU",
             "Open Source Enthusiast",
