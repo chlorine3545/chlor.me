@@ -9,6 +9,11 @@ enableCsrf = true
 [Permalinks]
     posts = "/:slug/"
 
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
 # Menus
 [[menu.main]]
     identifier = "archives"
@@ -23,7 +28,7 @@ enableCsrf = true
     parent = "archives"
 
 [[menu.main]]
-    identifier = "category"
+    identifier = "categories"
     name = "分类"
     url = "categories"
     weight = 10
@@ -33,6 +38,13 @@ enableCsrf = true
     identifier = "tags"
     name = "标签"
     url = "tags"
+    weight = 10
+    parent = "archives"
+
+[[menu.main]]
+    identifier = "series"
+    name = "系列"
+    url = "series"
     weight = 10
     parent = "archives"
 
