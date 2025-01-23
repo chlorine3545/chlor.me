@@ -2,6 +2,7 @@
 slug: weekly-5
 datetime: 2024-09-01 19:15
 summary: 浮生散记第五期
+series: 岁时录
 tags:
   - 周报
   - Vaultwarden

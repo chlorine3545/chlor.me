@@ -2,6 +2,7 @@
 slug: weekly-11
 datetime: 2024-10-27 23:02
 summary: 浮生散记第十一期
+series: 岁时录
 tags:
   - 周报
   - 日常

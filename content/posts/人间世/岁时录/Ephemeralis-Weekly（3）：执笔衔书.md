@@ -2,6 +2,7 @@
 slug: weekly-3
 datetime: 2024-07-22 19:17
 summary: 浮生散记第三期
+series: 岁时录
 tags:
   - 博客
   - 周报

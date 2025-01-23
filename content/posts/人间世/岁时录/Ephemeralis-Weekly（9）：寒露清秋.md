@@ -2,6 +2,7 @@
 slug: weekly-9
 datetime: 2024-10-13 19:07
 summary: 浮生散记第九期
+series: 岁时录
 tags:
   - 周报
   - 博客

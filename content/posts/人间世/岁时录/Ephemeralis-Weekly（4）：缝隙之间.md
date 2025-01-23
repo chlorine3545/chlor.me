@@ -2,6 +2,7 @@
 slug: weekly-4
 datetime: 2024-08-02 15:23
 summary: 浮生散记第四期
+series: 岁时录
 tags:
   - 博客
   - 周报

@@ -2,6 +2,7 @@
 slug: weekly-8
 datetime: 2024-10-06 16:51
 summary: 浮生散记第八期
+series: 岁时录
 tags:
   - 周报
   - 去中心化

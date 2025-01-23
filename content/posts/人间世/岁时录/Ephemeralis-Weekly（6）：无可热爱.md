@@ -2,6 +2,7 @@
 slug: weekly-6
 datetime: 2024-09-15 09:57
 summary: 浮生散记第六期
+series: 岁时录
 tags:
   - 周报
   - Zen

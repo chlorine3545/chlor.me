@@ -2,6 +2,7 @@
 slug: weekly-2
 datetime: 2024-07-08 08:19
 summary: 浮生散记第二期
+series: 岁时录
 tags:
   - 周报
 cover_image_url: https://img.clnya.fun/weekly-2-cover.webp

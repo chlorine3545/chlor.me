@@ -2,6 +2,7 @@
 slug: weekly-7
 datetime: 2024-09-28 15:35
 summary: 浮生散记第七期
+series: 岁时录
 tags:
   - 周报
   - 博客
