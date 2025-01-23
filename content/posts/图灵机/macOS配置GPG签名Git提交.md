@@ -6,7 +6,6 @@ tags:
   - Git
   - 折腾
   - GPG
-cover_image_url: ""
 title: macOS配置GPG签名Git提交
 date: 2024-07-23
 description: 本文详细介绍了如何在macOS上使用GPG签名来验证提交者身份的过程。作者从GPG的历史和功能开始，讲述了其加密和签名的重要性，接着指导读者如何在Mac上安装和配置GPG，包括生成密钥对、在GitHub上设置GPG密钥，以及如何配置Git和VS Code以支持GPG签名。文章还提到了Obsidian Git的配置，并分享了一些解决常见问题的经验。通过这些步骤，用户可以确保他们的Git提交是经过验证的，增强了提交的安全性和可信度。
