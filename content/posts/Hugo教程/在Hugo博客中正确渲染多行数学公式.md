@@ -1,7 +1,6 @@
 ---
 title: 在Hugo博客中正确渲染多行数学公式
 date: 2024-02-20 15:10:45
-location: 辽宁，东港
 categories: 百草园
 tags:
   - 折腾
