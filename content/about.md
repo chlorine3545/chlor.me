@@ -75,7 +75,6 @@ WSmeXSN44dSgE49a71r5/UjYsnH1Bw==
 
 ```
 
-
 ## 🏠 园子简介
 
 ### 📜 基本信息
@@ -84,15 +83,13 @@ WSmeXSN44dSgE49a71r5/UjYsnH1Bw==
 
 Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 
-本站点的域名为 [https://www.yoghurtlee.com](https://www.yoghurtlee.com/) ，目前正在逐步迁移至 [https://chlor.me](https://chlor.me)。
+本站点的域名为 <https://chlor.me> ，旧域名 <https://www.yoghurtlee.com> 重定向至此。
 
 ### 🤔 名称来历
 
 园子的全名是 「园子里的日光」。园子，是我们对清华园的昵称。还要在这里住上很久，讲给各位老友听的故事呢，大部分也发生在这里。而日光，是一个我很喜欢的词。温暖的、不刺眼的光芒，沐浴着它坐一会儿，可能就不自觉地失了神，忘记了来时的种种烦恼，只剩下模糊而温润的回忆，和草木熨帖而微苦的气息。
 
 希望这里，也能成为你的园子，你的光影，你的桃源，你的安吉。
-
-~~当然，就这里目前的视觉元素来看，和「园子里的日光」这个名字不能说是息息相关吧，至少也可以说是聊胜于无。~~
 
 ### 📆 博客历史
 
@@ -101,11 +98,11 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 - 2023 年 12 月 13 日
     - 下定决心要做一个独立博客，于是有了这行字 （你猜得没错，这个站早就有了，只不过一直在鸽（逃））。
 - 2023 年 12 月 15 日：网站搭建成功
-    - 在~~摸鱼了一节经原课程~~后成功搭建起了博客网站。用的系统是 [NotionNext](https://github.com/tangly1024/NotionNext)，主题为「Matery」，部署在 Netlify 上。
+    - ~~在摸鱼了一节经原课程后~~成功搭建起了博客网站。用的系统是 [NotionNext](https://github.com/tangly1024/NotionNext)，主题为「Matery」，部署在 Netlify 上。
 - 2023 年 12 月 15 日
-    - 拥有了独立域名 [https://yoghurtlee.com](https://www.yoghurtlee.com/)。
+    - 拥有了独立域名 <https://yoghurtlee.com>。
 - 2023 年 12 月 18 日
-    - 为网站添加了 [Twikoo 评论](https://twikoo.js.org)。
+    - 为网站添加了 [Twikoo](https://twikoo.js.org) 评论系统。
     - 部署平台更换：网站迁移至 [Vercel](https://vercel.com)。
 - 2024 年 2 月 5 日：博客主题更换
     - 博客主题改为「Hexo」，同时添加了说说页面。
@@ -150,7 +147,7 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 - 约 2025 年 1 月
     - 博客域名更换为 <https://chlor.me>。
 - 2025 年 1 月 20 日
-    - 博客主题改为「Hermeneutics」。
+    - 博客主题更换为「Hermeneutics」。
     - **园子正式开源**。
 
 ## 🤝 用户协议
