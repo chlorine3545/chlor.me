@@ -3,7 +3,7 @@ title: 理想乡构筑手记（1）：Hello，Hermeneutics
 date: 2025-01-22
 summary: 写了个主题捏
 description: 本文介绍了作者在期末考试后，利用 AI 编辑器 Cursor，以野心开发模式快速构建其博客新主题「Hermeneutics」的经历。新主题采用 UnoCSS 框架，样式灵感主要来源于 Innei 的 Mix Space Shiro。文章详细描述了如何向 AI 提出需求、快速迭代，并最终完成一个可用的主题。尽管遇到了一些挑战，例如代码风格混乱和部分功能需要手动实现，但作者仍然认为这种结合 AI 的开发模式对于个人项目来说高效且具启发性。最后，作者解释主题命名源于一首同名歌曲，并留下了一个值得读者思考的问题。
-category: 百草园
+categories: 百草园
 series: 理想乡构筑手记
 tags:
   - 博客
