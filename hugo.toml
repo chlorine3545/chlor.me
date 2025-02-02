@@ -169,18 +169,29 @@ enableCsrf = true
         [params.comments.waline]
             appId = ""
             appKey = ""
-        
+
         # TODO
         [params.comments.giscus]
             repo = ""
             repoId = ""
             category = ""
             categoryID = ""
-        
+
         # TODO
         [params.comments.artalk]
             serverURL = ""
             siteId = ""
+
+    [params.search]
+        enable = true
+        type = "algolia-docsearch"
+
+        [params.search.docsearch]
+            appid = "6O8RM1BUT3"
+            apiKey = "ceb081eaca8bade865cec00ef9e754e8"
+            indexname = "yoghurtlee"
+            container = "#docsearch"
+            placeholder = "Nyanpasu~"
 
     [params.beian]
         icp = "京ICP备2024074926号-5"
