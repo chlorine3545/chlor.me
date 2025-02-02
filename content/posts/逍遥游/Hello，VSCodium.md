@@ -160,4 +160,4 @@ GitHub 是微软的一部分，所以 GitHub Copilot 在 VSCodium 上运行不�
 
 然后，基本上就可以无缝衔接到 VSCodium 进行开发了。祝愉快。
 
-![二者的样式几乎一模一样](https://img.clnya.fun/IMG-20240519124202.webp)
+![|600](https://img.clnya.fun/IMG-20240519124202.webp "二者的样式几乎一模一样")

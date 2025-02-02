@@ -239,6 +239,6 @@ nano ~/Library/LaunchAgents/com.user.trackers-list.plist
 
 我们家的宽带大概是百兆的，网络很一般，于是我测试速度的时候吓了一跳。我测试用的是飞书的 `.dmg`，Obsidian 的那个（测试系统代理）只用了两秒钟。
 
-![495](https://img.clnya.fun/IMG-20240812213600.avif "你这速度疑似有点太城市化了")
+![Aria2 下载飞书安装包时速度达到了 18 M / s|495](https://img.clnya.fun/IMG-20240812213600.avif "你这速度疑似有点太城市化了")
 
 再次感谢伟大的开源社区。祝各位老友资源获取愉快。

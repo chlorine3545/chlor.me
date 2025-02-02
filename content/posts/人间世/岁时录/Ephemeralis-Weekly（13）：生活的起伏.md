@@ -121,7 +121,7 @@ share: true
 
 说实话小氯看完之后的表情大概是：
 
-![黑人问号.webp|308](https://img.clnya.fun/emoji/EMJ-confused.webp)
+![|500](https://img.clnya.fun/emoji/EMJ-confused.webp "黑人问号.webp")
 
 这显然是一封毫无意义的勒索邮件，因为他拿不出任何证据支持他的说法，最重要的是小氯从来没做过他说的事情。由于小氯注册 Tutamail 的时机比较合适，因此拿到了一个不错的前缀，很可能是我的邮箱被猜到了。
 

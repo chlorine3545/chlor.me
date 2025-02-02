@@ -127,7 +127,7 @@ share: true
 
 因为我平时分享日常都用 ActivityPub，所有现在我的 X 账号基本上是空的，也没注销，在那里放着。头像是一只 Q 版的小氯酱。
 
-![依然由豆包绘制|324](https://img.clnya.fun/chlorinechan-q.webp)
+![|324](https://img.clnya.fun/chlorinechan-q.webp "依然由豆包绘制")
 
 还蛮喜欢这个图片的风格的，不过画得比较一般。或许需要找一位插画师约个稿？小氯的老友们中有很会画画的，但是风格和这个都不大一样。
 

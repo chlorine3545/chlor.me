@@ -30,7 +30,7 @@ share: true
 
 按照我家乡的风俗，我喜欢过农历生日。因此，妈妈为我订了一个生日蛋糕，刚好在我下课的时候送来。我送了帮我保管的宿管阿姨一块，留了一块给同宿舍的学长，剩下的，我吃了好几顿。
 
-{{< figure src="https://img.clnya.fun/weekly-2-1.webp" caption="拍照技术不好，见谅" width="421" height="">}}
+![生日蛋糕|421](https://img.clnya.fun/weekly-2-1.webp "拍照技术不好，见谅")
 
 宿舍不允许用明火，我也没有打火机和火柴，因此我只是把蜡烛插上了蛋糕，没有吹，默默地许了个愿望。生日帽有点短，系不上，被我卡在眼镜下勉强固定住。
 
@@ -42,13 +42,13 @@ share: true
 
 按照计金的传统，每位同学都会有一个生日推。我选了我个人认为最好看的照片，发给了宣委。
 
-{{< figure src="https://img.clnya.fun/weekly-2-2.webp" caption="为了防止被开盒，还是打码吧（）虽然用处不大" width="" height="">}}
+![生日推](https://img.clnya.fun/weekly-2-2.webp "为了防止被开盒，还是打码吧（）虽然用处不大")
 
 许多师长、同学和朋友祝我生日快乐。
 
 正巧，我的朋友来清华找我玩，于是说什么也要给我再过一次生日。
 
-{{< figure src="https://img.clnya.fun/weekly-2-3.webp" caption="蛋糕有些变形了" width="" height="">}}
+![朋友们的蛋糕](https://img.clnya.fun/weekly-2-3.webp "蛋糕有些变形了")
 
 谢谢我的朋友们，让我过了一个有人陪的生日。
 

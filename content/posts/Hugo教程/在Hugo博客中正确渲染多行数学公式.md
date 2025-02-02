@@ -42,7 +42,7 @@ $$
 
 但是今天，在我打出上面那串参数方程的时候，我突然发现，换行符 `\\` 没生效。
 
-![黑人问号.webp](https://img.clnya.fun/emoji/EMJ-confused.webp)
+![|500](https://img.clnya.fun/emoji/EMJ-confused.webp "黑人问号.webp")
 
 我不信邪，刚刚试了一下这个矩阵式的公式块：
 
@@ -155,6 +155,6 @@ $$
 
 其真实效果应该是：
 
-![使用Obsidian进行的渲染](https://img.clnya.fun/IMG-20240220151045.webp)
+![](https://img.clnya.fun/IMG-20240220151045.webp "使用Obsidian进行的渲染")
 
 3. 参考资料：[Hugo 数学公式支持 | Finley&#39;s Blog (f1nley.xyz)](https://blog.f1nley.xyz/post/hugo-math-support/)

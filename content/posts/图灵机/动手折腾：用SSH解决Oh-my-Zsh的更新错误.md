@@ -52,4 +52,4 @@ omz update
 
 就可以成功更新了。
 
-![590](https://img.clnya.fun/IMG-20240509082331.webp)
+![|590](https://img.clnya.fun/IMG-20240509082331.webp)

@@ -143,7 +143,7 @@ brew install tmux
 
 依然是在 [macosicons.com](https://macosicons.com/#/) 搜索图标。由于换图标是给自己看的，因此也不需要拘泥于 iTerm2 的图标，搜索 iTerm2、Terminal 等关键词都可以。我用的是这个：
 
-![可爱捏](https://img.clnya.fun/IMG-20240505203620.webp)
+![](https://img.clnya.fun/IMG-20240505203620.webp)
 
 原本是 `>_`，加上一半之后瞬间可爱了。
 

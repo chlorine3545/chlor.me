@@ -226,7 +226,7 @@ Quail 的优点如下：
 
 完事。就是吧……有那么亿点点不太显眼……
 
-![镜座：你听我狡辩.webp](https://img.clnya.fun/EMJ-lemmeexcuse.webp)
+![](https://img.clnya.fun/EMJ-lemmeexcuse.webp "镜座：你听我狡辩.webp")
 
 ## 总结
 

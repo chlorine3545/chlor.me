@@ -139,7 +139,7 @@ docker-compose up -d
 
 完成后打开你的部署地址，如果看到：
 
-![启动界面|566](https://img.clnya.fun/IMG-20240816105021.avif)
+![|566](https://img.clnya.fun/IMG-20240816105021.avif)
 
 恭喜你，部署成功。现在试着搜索一下吧。可以在首选项那里进行各种配置。
 

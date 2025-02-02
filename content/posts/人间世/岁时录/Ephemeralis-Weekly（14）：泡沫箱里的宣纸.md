@@ -36,7 +36,7 @@ share: true
 
 在周二上完会原，从法图出来时，小氯感觉眼睛里落进了什么东西。刚想抬手擦一下，结果却鬼使神差地抬头看到，路灯映照下的视野中，多了些迅疾的箭矢一般的造物。
 
-![326](https://img.clnya.fun/IMG-20241130213408.avif "抱歉，我贫瘠的字句找不出更好的描述方式了")
+![|326](https://img.clnya.fun/IMG-20241130213408.avif "抱歉，我贫瘠的字句找不出更好的描述方式了")
 
 是的，下雪了。这可真是讽刺，因为就在下课前摸鱼时，小氯还在写着「实际上，到现在也没下雪」。
 
@@ -154,7 +154,7 @@ Viento 是西班牙语，意思就是 Wind，其读音大致介于 Biento 到 Bi
 
 然后当我进入他们的[官方网站](https://kunkun.sh)时：
 
-![605](https://img.clnya.fun/IMG-20241201173904.avif)
+![|605](https://img.clnya.fun/IMG-20241201173904.avif)
 
 你说你不是小黑子我是一点都不相信的。
 
@@ -164,7 +164,7 @@ Viento 是西班牙语，意思就是 Wind，其读音大致介于 Biento 到 Bi
 
 `top` 咱都知道，`htop` 也知道。那么 Neohtop 大概就是 htop 的 GUI 版本。
 
-![596](https://img.clnya.fun/IMG-20241201175803.avif)
+![|596](https://img.clnya.fun/IMG-20241201175803.avif)
 
 看着颇有点……那个东西叫什么来着，对了，Catppuccin 的味道。
 
@@ -178,7 +178,7 @@ Viento 是西班牙语，意思就是 Wind，其读音大致介于 Biento 到 Bi
 
 一个 Feed Reader，采用的是小氯非常喜欢的 Shadcn UI。不过下面这张图体现得不是很明显，如果好奇 Shadcn UI 是什么样子，大体可以去看一下 Vercel。
 
-![678](https://img.clnya.fun/IMG-20241202084302.avif)
+![|678](https://img.clnya.fun/IMG-20241202084302.avif)
 
 感觉作为 RSS 阅读器而言还是蛮合格的，虽然说不如 Follow 那么丝滑，但是人家资源占用小啊。当然，RSSHub 之类的我没测试，反正我也用得少。
 

@@ -20,7 +20,7 @@ categories: 百草园
 
 然后就没有然后了。
 
-![黑人问号.webp](https://img.clnya.fun/emoji/EMJ-confused.webp)
+![|500](https://img.clnya.fun/emoji/EMJ-confused.webp "黑人问号.webp")
 
 我刷新页面，检查垃圾邮件文件夹，把清华邮箱翻了个遍也没翻到验证码。
 

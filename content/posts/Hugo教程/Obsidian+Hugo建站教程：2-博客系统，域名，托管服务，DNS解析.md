@@ -232,7 +232,7 @@ OK，场地有了，大家上哪里去找你呢？
 
 好，想象你想去一个地方，你接收到的地址是：39°59'59"N，116°19'35"E.
 
-![黑人问号.webp|400](https://img.clnya.fun/emoji/EMJ-confused.webp)
+![|500](https://img.clnya.fun/emoji/EMJ-confused.webp "黑人问号.webp")
 
 但假设你接到的是：
 
@@ -267,7 +267,7 @@ IP 和域名的关系就类似于这样. IP 一般都是: xxx. xx. xxx. xx 这�
 
 顺便放一个查域名时的逆天彩蛋：
 
-![都够买套房了（）](https://img.clnya.fun/IMG-20240218153014-1.webp)
+![](https://img.clnya.fun/IMG-20240218153014-1.webp "都够买套房了（）")
 
 #### 备案
 
