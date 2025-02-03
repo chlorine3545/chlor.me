@@ -151,6 +151,13 @@ enableCsrf = true
         enable = true
 
     [[params.social]]
+        name = "Bluesky"
+        url = "https://bsky.app/profile/chlor.me"
+        icon = "i-simple-bluesky"
+        color = "#1DA1F2"
+        enable = true
+
+    [[params.social]]
         name = "Travelling"
         url = "https://www.travellings.cn/go.html"
         icon = "i-carbon-train"
