@@ -117,7 +117,7 @@ enableCsrf = true
 
     [[params.social]]
         name = "Codeberg"
-        url = "https://codeberg.org/chlorine3545"
+        url = "https://codeberg.org/chlorine"
         icon = "i-simple-codeberg"
         color = "#2185D0"
         enable = true
@@ -127,7 +127,7 @@ enableCsrf = true
         url = "https://www.youtube.com/@hichlorine"
         icon = "i-carbon-logo-youtube"
         color = "#FF0000"
-        enable = true
+        enable = false
 
     [[params.social]]
         name = "Bilibili"

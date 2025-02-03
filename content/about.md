@@ -45,7 +45,7 @@ title: 关于
 - 手机/WeChat/QQ：就不告诉你
 - Telegram/微博/Facebook/Twitter/Instagram：没有/几乎没有
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
-- Codeberg：[chlorine3545](https://codeberg.org/chlorine3545)
+- Codeberg：[chlorine](https://codeberg.org/chlorine)
 - GoToSocial：[@yoghurtlee](https://scg.owu.one/@yoghurtlee)
 - Matrix：@chlorine:mtx.owu.one
 - [Jami](https://jami.net)：chlorine3545
