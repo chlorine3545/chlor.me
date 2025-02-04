@@ -46,7 +46,8 @@ title: 关于
 - Telegram/微博/Facebook/Twitter/Instagram：没有/几乎没有
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
 - Codeberg：[chlorine](https://codeberg.org/chlorine)
-- GoToSocial：[@yoghurtlee](https://scg.owu.one/@yoghurtlee)
+- Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)
+- Fediverse：纠结住哪中，比较古早的账号是 [@yoghurtlee](https://scg.owu.one/@yoghurtlee)。
 - Matrix：@chlorine:mtx.owu.one
 - [Jami](https://jami.net)：chlorine3545
 - 邮箱（请将 [at] 替换为 @）：`hi[at]chlor.me`。
