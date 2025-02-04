@@ -33,7 +33,7 @@ title: 关于
 
 ### ⛴️ 生命愿望
 
-- [ ] 前往曾经最喜欢的学校、Richard Feynman 工作过的 California Institute of Technology 朝圣
+- [ ] 前往曾经最喜欢的学校，Richard Feynman 工作过的 California Institute of Technology 朝圣
 - [ ] 找到一份喜欢的工作
 - [ ] 在现实中拥有一个自己的秘密基地（家）
 - [ ] 成为一位优秀的开发者
@@ -47,15 +47,18 @@ title: 关于
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
 - Codeberg：[chlorine](https://codeberg.org/chlorine)
 - Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)
-- Fediverse：纠结住哪中，比较古早的账号是 [@yoghurtlee](https://scg.owu.one/@yoghurtlee)。
+- Fediverse：纠结住哪中……
+    - 比较活跃的账号是 [@yoghurtlee@scg.owu.one](https://scg.owu.one/@yoghurtlee)。
+    - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
+    - 在考虑自己搭一个 Iceshrimp。
 - Matrix：@chlorine:mtx.owu.one
 - [Jami](https://jami.net)：chlorine3545
-- 邮箱（请将 [at] 替换为 @）：`hi[at]chlor.me`。
+- 邮箱（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - RSS 订阅：点击[这里](/index.xml)。
 - 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
 
 > [!IMPORTANT]
-> 如果需要和我联系，请优先选择 Email，Matrix 和 Jami。我永远不会公开我的微信、QQ 和 Telegram。
+> 如果需要和我联系，请优先选择 Email 或 Matrix。我永远不会公开我的微信、QQ 和 Telegram。
 
 以下是我的域名邮箱的 GPG 公钥，如果您希望给小氯发送一封私密的邮件，可以采用本公钥进行加密。
 
@@ -173,7 +176,7 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 
 ### ℹ️ 隐私政策
 
-本站使用 [Vercount](https://vercount.one) 作为站点计数器，该计数器不会向我汇报除访问量外的任何信息。若未来加入第三方服务（如 Google Analytics）分析网站流量，这些服务可能会收集匿名数据以帮助我们了解用户行为。这些数据仅用于改进我们的网站和服务，不会用于个人身份识别。
+本站目前暂未添加任何统计或分析服务。若未来加入第三方服务（如 Google Analytics）分析网站流量，这些服务可能会收集匿名数据以帮助我们了解用户行为。这些数据仅用于改进我们的网站和服务，不会用于个人身份识别。
 
 本站可能会使用 cookies 来改善您的浏览体验，但这些 cookies 不会包含任何个人信息。如果您不希望接受 cookies，您可以在浏览器设置中禁用它们。
 
@@ -199,7 +202,7 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 
 ---
 
-未来，我会尽可能维护这个网站的运行（尽管也维护不了什么）。希望这里，能够成为你在互联网中一处歇脚的驿站。
+未来，我会尽可能维护这个网站的运行（~~尽管也维护不了什么~~）。希望这里，能够成为你在互联网中一处歇脚的驿站。
 
 「柴门闻犬吠，风雪夜归人。」故事、热茶与点心，送给每一位路过的老友。
 
