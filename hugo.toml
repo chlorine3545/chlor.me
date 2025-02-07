@@ -1,5 +1,5 @@
 baseURL = 'https://chlor.me/'
-languageCode = 'zh-cn'
+languageCode = 'zh-CN'
 title = '园子里的日光'
 theme = 'hermeneutics'
 
@@ -71,6 +71,16 @@ enableCsrf = true
         startDate = "12/15/2023 12:00:00"
         announcement = true
         math = false
+        description = "My personal blog, my nook of the internet, my cyber eutopia."
+        keywords = [
+            "Blog",
+            "Indie",
+            "Open Source",
+            "Computer Science",
+            "Writing",
+            "中文博客",
+            "Chlorine"
+        ]
 
     [params.author]
         name = "Chlorine"
