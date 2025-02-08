@@ -48,7 +48,7 @@
         {
             "name": "维基萌",
             "note": "广树",
-            "room": "0717A",
+            "room": "0777A",
             "url": "https://www.wikimoe.com",
             "hash": "fbb31d99a24cf9a56c48b44dd0797d22",
             "des": "萌即是正义！",
@@ -251,6 +251,15 @@
             "hash": "",
             "des": "总之岁月漫长，然而值得等待",
             "ava": "https://dogeoss.grtsinry43.com/img/author.jpeg"
+        },
+        {
+            "name": "杂话铺子",
+            "note": "桜庭夜",
+            "room": "0283B",
+            "url": "https://yuuikic.com",
+            "hash": "",
+            "des": "忧灾日常大王",
+            "ava": "https://yuuikic.com/avatar/787f3e0552ca378a4ec72b41b99ddaf8?size=512"
         }
     ]
 }
