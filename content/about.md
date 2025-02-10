@@ -50,8 +50,9 @@ title: 关于
 - Fediverse：纠结住哪中……
     - 比较活跃的账号是 [@yoghurtlee@scg.owu.one](https://scg.owu.one/@yoghurtlee)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
-    - 在考虑自己搭一个 Iceshrimp。
-- Matrix：@chlorine:mtx.owu.one
+- Matrix
+    - 主账号：@chlorine:chat.viento.cc
+    - 备用账号：@chlorine:mtx.owu.one
 - [Jami](https://jami.net)：chlorine3545
 - 邮箱（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - RSS 订阅：点击[这里](/index.xml)。
