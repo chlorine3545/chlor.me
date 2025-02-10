@@ -7,7 +7,7 @@ description: 这篇文章介绍了作者在更新 MinGW 过程中遇到的各种
 tags: 
     - C++
     - 教程
-categories: 图灵机
+categories: ["图灵机"]
 ---
 嗨，大家好，我是 Chlorine.
 

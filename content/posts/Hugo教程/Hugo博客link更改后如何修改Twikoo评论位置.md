@@ -1,7 +1,7 @@
 ---
 title: Hugo博客link更改后如何修改Twikoo评论位置
 date: 2024-02-21T10:29:40
-categories: 百草园
+categories: ["百草园"]
 tags:
   - Twikoo
   - Hugo

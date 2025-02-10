@@ -8,7 +8,7 @@ tags:
     - Chat
     - Notion
     - 博客
-categories: 百草园
+categories: ["百草园"]
 ---
 各位老友们好，我是 Chlorine。
 

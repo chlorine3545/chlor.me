@@ -3,7 +3,7 @@ title: Hugo博客迁移日志（1）
 date: 2024-06-29
 summary: 关于为什么又双叒叕搬家的一些狡辩（划掉）解释
 description: 本文介绍了作者关于从 NotionNext 再一次迁移到 Hugo 的一些原因的叙述，主要原因是喜欢 Hugo Landscape 主题的外观和构建速度。
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 博客
   - Hugo

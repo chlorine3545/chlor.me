@@ -1,7 +1,7 @@
 ---
 title: 如何在不懂CSS的情况下魔改Typora主题
 date: 2024-01-29 12:00:00
-categories: 图灵机
+categories: ["图灵机"]
 tags:
   - Typora
   - 折腾

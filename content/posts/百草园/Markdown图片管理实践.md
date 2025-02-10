@@ -1,7 +1,7 @@
 ---
 title: Markdown 图片管理实践
 date: 2024-03-14T11:01:25+08:00
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 博客
   - 折腾

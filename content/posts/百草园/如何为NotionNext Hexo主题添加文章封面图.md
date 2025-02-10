@@ -1,7 +1,7 @@
 ---
 title: 如何为NotionNext Hexo主题添加文章封面图
 date: 2024-02-09 12:00:00
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 教程
   - 博客

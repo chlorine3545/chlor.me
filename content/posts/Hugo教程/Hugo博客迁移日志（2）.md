@@ -3,7 +3,7 @@ title: Hugo博客迁移日志（2）
 date: 2024-06-29T21:30:00+08:00
 summary: 真·迁移日志（1）
 description: 本文介绍了作者对于从NotionNext迁移到Hugo的具体过程的简要叙述，包含对项目的总览、友链页面的构建、说说页面的构建等
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 博客
   - Hugo

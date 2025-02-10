@@ -10,7 +10,7 @@ cover_image_url: ""
 title: Obsidian与开源
 date: 2024-10-22
 description: 本文探讨了Obsidian这款个人知识管理软件的开源问题。Obsidian是一款优秀的笔记软件，但其闭源特性让一些FOSS支持者感到顾虑。文章从Obsidian社区对开源的激烈讨论入手，详尽且具体地分析了开源对收入、隐私、安全性、开发效率、社区管理、知识产权和法律等方面的影响，同时还涉及到实质性开源，Obsidian与一些闭源产品及团队的本质区别，开源与源代码公共可见等概念的区别等问题。文章认为先开源部分核心组件是好的实践，同时强调开源与否是Obsidian团队的自由。文章认为开源将具有重要的象征意义，并表达了对Obsidian开源的期望。文章通过理性而详尽的分析，表达了作者对开源的深入思考和对Obsidian未来的期待。
-categories: 沉思录
+categories: ["沉思录"]
 featuredImage: https://img.clnya.fun/obsidian-and-open-source-cover.webp
 draft: false
 share: true

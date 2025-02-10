@@ -9,7 +9,7 @@ cover_image_url: https://img.clnya.fun/weekly-2-cover.webp
 title: Ephemeralis-Weekly（2）：生日快乐
 date: 2024-07-08
 description: 本文是作者周报的第二期，这是非常值得记录的一周，作者过了自己的19岁生日，并分享了在农历生日和公历生日的庆祝活动。他还提到博客迎来了200天的生日，给博客接入了Quail作为Newsletter，并谈到备案和其他一些想法。
-categories: 人间世
+categories: ["人间世"]
 featuredImage: https://img.clnya.fun/weekly-2-cover.webp
 draft: false
 share: true

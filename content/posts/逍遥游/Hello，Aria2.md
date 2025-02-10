@@ -9,7 +9,7 @@ cover_image_url: ""
 title: Hello，Aria2
 date: 2024-08-12
 description: 本文介绍了如何配置 Aria2 作为 macOS 下载工具，涉及安装、设置配置文件、开机自启与自动更新 BT tracker 的步骤，同时感谢了一些教程的贡献者。
-categories: 逍遥游
+categories: ["逍遥游"]
 featuredImage: 
 draft: false
 share: true

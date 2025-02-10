@@ -2,7 +2,7 @@
 title: 离散数学——Bell数
 date: 2024-04-27T07:12:00
 slug: bell-number
-categories: 九章术
+categories: ["九章术"]
 summary: 算点东西
 description: 本文介绍了离散数学中的 Bell 数。作者介绍了集合的划分，然后引出了 Bell 数的定义并指出其比想象中复杂，并给出了一个递归表达式。最后作者给出了一份计算 Bell 数的 C++ 代码。
 tags:

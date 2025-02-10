@@ -9,7 +9,7 @@ cover_image_url: https://img.clnya.fun/hello-shiki-cover.webp
 title: Hello，Shiki
 date: 2024-08-18
 description: 本文介绍了如何在Hugo中使用Shiki进行代码高亮，Shiki在服务端执行，提供了更好的性能和样式，适合构建静态网站，需满足特定前置条件和安装依赖，步骤包括配置Hugo、创建rehyperc文件和修改CSS等。
-categories: 逍遥游
+categories: ["逍遥游"]
 featuredImage: https://img.clnya.fun/hello-shiki-cover.webp
 draft: false
 share: true

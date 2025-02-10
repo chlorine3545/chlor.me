@@ -8,7 +8,7 @@ cover_image_url: https://img.clnya.fun/hello-sink-cover.webp
 title: Hello，Sink
 date: 2024-07-29
 description: 本文介绍了 Sink 项目的部署过程。Sink 是一个基于 CloudFlare 的短链接项目，支持数据分析和链接截止日期等功能。本文详细介绍了使用 CloudFlare 部署 Sink 的过程。
-categories: 逍遥游
+categories: ["逍遥游"]
 featuredImage: https://img.clnya.fun/hello-sink-cover.webp
 draft: false
 share: true

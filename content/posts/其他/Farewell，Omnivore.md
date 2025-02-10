@@ -9,7 +9,7 @@ cover_image_url: ""
 title: Farewell，Omnivore
 date: 2024-10-30
 description: 本文讲述了作者对 Omnivore（一款稍后读应用）项目终止的感受和思考。文章首先介绍了作者与 Omnivore 的渊源，表达了对其功能和理念的赞赏。接着，作者详细描述了得知 Omnivore 团队加入 ElevenLabs、Omnivore 即将停止维护和服务关闭的反应时的悲哀，虽然 Omnivore 的代码依然开源，但服务器关闭和缺乏完善的自部署文档，意味着 Omnivore 实际上已走到生命尽头。最后，作者表示自己已经彻底离开 Omnivore，探讨了开源项目的风险并展望了可能的替代工具，表达了对开源社区的思考。
-categories: 图灵机
+categories: ["图灵机"]
 featuredImage: 
 draft: false
 share: true

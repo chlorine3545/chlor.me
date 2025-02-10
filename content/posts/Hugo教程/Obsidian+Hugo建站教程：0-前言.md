@@ -1,7 +1,7 @@
 ---
 title: Obsidian+Hugo建站教程：0-前言
 date: 2024-02-16T18:49:34
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 博客
   - 教程

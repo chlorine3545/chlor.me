@@ -6,7 +6,7 @@ summary: 世界第一开源中文输入法我来啦！
 tags:
   - 折腾
   - Rime
-categories: 逍遥游
+categories: ["逍遥游"]
 slug: hello-rime
 draft: false
 featuredImage: "https://img.clnya.fun/hello-rime-cover.webp"

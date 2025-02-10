@@ -3,7 +3,7 @@ title: Hello，Forgejo
 date: 2025-02-09
 summary: Forgejo，以及一点碎碎念
 description: 本文讲述了自托管 Git 服务 Forgejo，以及作者由此引发的对开源社区治理的思考。Forgejo 是 Gitea 成立商业公司后，Codeberg 创立的坚守自由理念的分叉。作者首先梳理了从 Gogs 到 Gitea 再到 Forgejo 的演化过程，然后通过亲身部署，指出 Forgejo 与 Gitea 现阶段功能差异不大，但更契合理想主义者的精神诉求。文章后半部展开深度思辨，将开源运动与国际共运类比，剖析「分叉自由」背后的治理困境：去中心化理想与制度化需求的矛盾，理念纯洁性与现实可行性的冲突，以及技术乌托邦愿景在人类社会组织规律前的局限性。作者以乐观、充满希望的笔触收尾，坚信开源社区将不断进步，理想的「技术天国」也会越来越近。
-categories: 逍遥游
+categories: ["逍遥游", "沉思录"]
 series: 
 tags:
   - Forgejo

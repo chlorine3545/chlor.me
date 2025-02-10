@@ -3,7 +3,7 @@ title: "Hello，iTerm2"
 date: 2024-05-05T20:18:00
 featuredImage: https://img.clnya.fun/hello-iterm2-cover.webp
 slug: hello-iterm2
-categories: 逍遥游
+categories: ["逍遥游"]
 summary: 找到了一个好用的终端啦
 description: 本文介绍了作者使用 iTerm2 作为终端模拟器的过程及配置。作者最初因担心兼容性问题放弃了 Hyper，尝试了多个终端，包括默认终端、Warp、Wave、Wind 和 Tabby，但各自都有不足，最终选择了 iTerm2。文章详细介绍了通过 Homebrew 安装 iTerm2，并推荐了 Oh-my-zsh、zsh 插件、tmux 等工具来提升使用体验。此外，作者分享了如何自定义 iTerm2 的配色、字体、状态栏及图标等美化步骤，推荐了 Starship 作为终端美化插件，并展示了最终配置效果。
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Obsidian+Hugo建站教程：2-博客系统，域名，托管服务，DNS解析
 date: 2024-02-18T15:30:14
-categories: 百草园
+categories: ["百草园"]
 tags: 
   - 博客
   - 教程

@@ -3,7 +3,7 @@ title: Ephemeralis-Weekly（1）：总要启程
 date: 2024-06-30
 summary: 浮生散记第一期
 description: 本文是作者的博客周报「浮生散记」（Ephemeralis Weekly）的第一期，内容是作者重开周报的考虑、作者本周的生活情况，包括写各种大作业的过程、重启 Hugo 博客的过程，以及与家人分别的不舍和思考。
-categories: 人间世
+categories: ["人间世"]
 series: 岁时录
 tags:
   - 周报

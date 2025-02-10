@@ -3,7 +3,7 @@ title: Hugo博客迁移日志（3）
 date: 2024-06-30
 summary: 真·迁移日志（2）
 description: 作者对于从NotionNext迁移到Hugo的具体过程的简要叙述，包含GitHub、GitLab、Codeberg短代码的构建与Callout块的处理。
-categories: 百草园
+categories: ["百草园"]
 tags:
   - 博客
   - Hugo

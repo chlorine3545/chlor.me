@@ -1,7 +1,7 @@
 ---
 title: Spring Festival Greeting：Embracing and Rebirth
 date: 2024-02-09T19:00:00
-categories: 人间世 
+categories: ["人间世"]
 tags:
   - 公告
 draft: false

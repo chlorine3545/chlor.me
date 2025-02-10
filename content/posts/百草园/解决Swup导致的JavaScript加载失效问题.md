@@ -9,7 +9,7 @@ cover_image_url: ""
 title: 解决Swup导致的JavaScript加载失效问题
 date: 2024-07-26
 description: 本文记录了作者修复 Swup 下 JavaScript 加载问题的过程。作者发现页面功能如评论和代码复制无法正常加载，经过排查发现 Swup 仅替换页面的 HTML 内容，而未加载新页面的 JavaScript。作者随后找到了解决方案，使用 Swup 的 Script Plugin 来确保 JavaScript 被正确加载。最后，作者针对评论功能做了额外处理，确保 Twikoo 评论系统可以正常工作。虽然该方案还未完全完善，但已基本解决问题。
-categories: 百草园
+categories: ["百草园"]
 featuredImage: 
 draft: false
 share: true

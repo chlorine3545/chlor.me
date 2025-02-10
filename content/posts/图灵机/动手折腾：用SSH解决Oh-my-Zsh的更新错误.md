@@ -1,7 +1,7 @@
 ---
 title: 动手折腾：用SSH解决Oh-my-Zsh的更新错误
 date: 2024-05-09T08:14:00
-categories: 图灵机
+categories: ["图灵机"]
 tags:
   - 折腾
   - Zsh

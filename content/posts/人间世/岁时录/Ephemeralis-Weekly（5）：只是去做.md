@@ -12,7 +12,7 @@ cover_image_url:
 title: Ephemeralis-Weekly（5）：只是去做
 date: 2024-09-01
 description: 本文是作者周报的第五期，详细记录了自己在技术折腾、笔记软件选择以及生活琐事中的思考与实践。主要内容包括部署Vaultwarden和Gitea的经验分享，笔记软件的使用和选择中的感悟，高效率完成一次准备任务以及在健康问题下的饮食调整。文章风格轻松幽默，体现了作者对技术和生活的热爱与反思。
-categories: 人间世
+categories: ["人间世"]
 featuredImage: https://img.clnya.fun/weekly-5-cover.webp
 draft: false
 share: true

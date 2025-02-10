@@ -11,7 +11,7 @@ cover_image_url: ""
 title: Ephemeralis-Weekly（7）：唯有时光
 date: 2024-09-28
 description: 本文是作者周报的第七期，主要包括园子的装修工作，如 Swup 的修复、whisper 代码美化、Twikoo 表情链接的调整、解析线路切换等。此外，还探讨了不同语言中对“小氯”这一昵称的翻译，涉及英语、西班牙语、日语、法语、俄语和韩语/朝鲜语等。文章最后分享了对时间和生活感知的哲学思考，提倡通过记录日常小事来增强对时间流逝的感知，强调生活经历对个人记忆和身份的重要性。
-categories: 人间世
+categories: ["人间世"]
 featuredImage: https://img.clnya.fun/weekly-7-cover.webp
 draft: false
 share: true
