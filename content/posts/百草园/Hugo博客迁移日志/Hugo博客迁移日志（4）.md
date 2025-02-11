@@ -4,6 +4,7 @@ date: 2024-07-01
 summary: 真·迁移日志（3）
 description: 本文详细介绍了Hugo主题定制过程中的四个主要组件：公告、目录、简历和糖果雨特效。通过具体的代码示例和配置方法，文章指导读者如何实现这些组件的添加和功能扩展。包括了HTML模板的编辑、TOML配置文件的编写、CSS样式的调整以及JavaScript特效的实现。适合希望深入了解Hugo主题开发和自定义功能的读者。
 categories: ["百草园"]
+series: Hugo博客迁移日志
 tags:
   - Hugo
   - 博客

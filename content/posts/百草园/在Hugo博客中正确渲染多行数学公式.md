@@ -11,6 +11,7 @@ summary: LaTeX，没了你我可怎么活啊 LaTeX
 description: 本文介绍了为 Hugo 博客增加基于 KaTeX 的多行数学公式渲染的步骤，包括引入 JavaScript 和修改 Hugo 配置文件等步骤。作者指出，MathJax 能够原生渲染物理和化学公式，而 KaTeX 需要引入扩展包。
 slug: hugo-math-rendering
 math: true
+wikilinks: true
 ---
 
 > [!IMPORTANT]
@@ -135,6 +136,8 @@ markup:
 ```
 
 然后就可以正确进行渲染了~
+
+[[独立博客选什么域名后缀？.md|ceui]]
 
 ## PS
 

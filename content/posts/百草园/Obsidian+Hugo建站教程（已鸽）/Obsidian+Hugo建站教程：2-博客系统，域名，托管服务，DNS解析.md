@@ -9,6 +9,7 @@ tags:
 feature: https://img.clnya.fun/how-to-build-a-blog-2-cover.webp
 slug: how-to-build-a-blog-2
 summary: Obsidian + Hugo 建站教程第二期
+series: Obsidian+Hugo建站教程（已鸽）
 description: Obsidian + Hugo 建站教程——各种静态及动态博客系统简介，域名简介以及建议，Vercel 和 Netlify 等托管服务简介，DNS 解析介绍。
 ---
 各位老友们好，我是 Chlorine。本期继续我们的数字博物馆搭建之旅。

@@ -8,6 +8,7 @@ tags:
   - Obsidian
 featuredImage: https://img.clnya.fun/how-to-build-a-blog-0-cover.webp
 slug: how-to-build-a-blog-0
+series: Obsidian+Hugo建站教程（已鸽）
 summary: Obsidian + Hugo 建站教程前言
 description: 本文是作者关于从 NotionNext 迁移到 Hugo 博客系统的系列文章的开端。文章首先解释了静态博客和独立博客的概念，强调了独立博客的自主性、自由度以及与读者互动的紧密性，同时也指出了其成本、技术要求等缺点。接着，作者提出了独立博客写作的最佳实践，并列出了进行博客写作和管理所需的基本技能和工具。文章最后以一个博物馆的比喻预告了后续将详细讲解博客搭建的各个步骤，旨在为读者提供一个全面的指南。
 ---

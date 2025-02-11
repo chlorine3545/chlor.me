@@ -7,6 +7,8 @@ tags:
   - 教程
 featuredImage: https://img.clnya.fun/how-to-build-a-blog-1-cover.webp
 slug: how-to-build-a-blog-1
+categories: ["百草园"]
+series: Obsidian+Hugo建站教程（已鸽）
 summary: Obsidian + Hugo 建站教程第一期
 description: Obsidian + Hugo 建站教程——Markdown 语法介绍，Obsidian 配置，使用缤纷云对象存储搭建图床。
 ---
