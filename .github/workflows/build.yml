@@ -1,0 +1,40 @@
+name: Generate Hugo Files
+
+on:
+  push:
+    branches:
+      - main
+  # 手动触发
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.143.1"
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Build static files
+        run: hugo --gc --minify
+
+      - name: Bun & Shiki process
+        run: bun install && (bun run shiki || true)
+
+      - name: Deploy to blog-public
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: chlorine3545/blog-public
+          publish_dir: ./public
+          keep_files: false
+          commit_message: "Deploy from main branch at ${{ github.event.head_commit.timestamp }}"
