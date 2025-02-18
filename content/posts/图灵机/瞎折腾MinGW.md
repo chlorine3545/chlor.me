@@ -9,6 +9,7 @@ tags:
     - 教程
 categories: ["图灵机"]
 ---
+
 嗨，大家好，我是 Chlorine.
 
 本期的主要内容是讲述我更新 MinGW 的痛苦经历，寄术力不高，大佬轻喷。引用一句[某乎上的话](https://zhuanlan.zhihu.com/p/137332644):

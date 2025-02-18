@@ -10,6 +10,7 @@ summary: CSS 小白历险记
 description: 本文介绍了作者在不熟悉 CSS 的情况下，如何通过修改现有 Typora 主题 Lapis 来创建一个新的主题 Marble 的过程。文章详细描述了从前期准备、确定需要的效果、观察主题结构到具体的修改步骤，包括字体替换、颜色调整、标题样式修改、引用块和代码块样式的变更等。作者通过使用 VS Code、AI 助手（如 ChatGPT 和 Github Copilot）以及大量的试错和学习，成功实现了主题的自定义。最终，作者将新主题 Marble 开源至 Github 和 Gitee，供大家下载使用。
 slug: how-to-modify-typora-themes
 ---
+
 嗨，大家好，我是 Chlorine。
 
 本期的标题看起来非常扯，和"如何在不懂英语的情况下出一本译著"有一拼。但是这是真的，效果如下：

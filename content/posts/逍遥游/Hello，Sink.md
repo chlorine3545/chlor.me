@@ -13,6 +13,7 @@ featuredImage: https://img.clnya.fun/hello-sink-cover.webp
 draft: false
 share: true
 ---
+
 各位老友们好，我是 Chlorine。
 
 最近在重拾 TypeScript（~~小氯你到底还要开多少个语言的坑啊~~），同时热衷于薅带善人 CloudFlare 的羊毛，于是盯上了 CloudFlare Workers&Pages，然后找到了一个有趣的项目：[Sink](https://sink.cool)。

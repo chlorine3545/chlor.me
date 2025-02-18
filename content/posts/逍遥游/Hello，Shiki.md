@@ -15,6 +15,7 @@ draft: false
 share: true
 showTableOfContents: true
 ---
+
 各位老友们好，我是 Chlorine。继续高强度水文。
 
 本期的主题是 Hugo 的代码高亮，主要参考了[蜗牛大神](https://www.eallion.com)的教程：[在 Hugo 中使用 Shiki](https://www.eallion.com/hugo-syntax-highlight-shiki/)。感谢前辈的付出。

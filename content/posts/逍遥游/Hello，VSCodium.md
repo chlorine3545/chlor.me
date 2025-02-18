@@ -8,7 +8,6 @@ description: 本文介绍了 VSCodium，这是一个完全开源且不包含数�
 showTableOfContents: true
 featuredImage: https://img.clnya.fun/hello-vscodium-cover.webp
 ---
-# Hello，VSCodium
 
 各位老友们好，我是 Chlorine。
 

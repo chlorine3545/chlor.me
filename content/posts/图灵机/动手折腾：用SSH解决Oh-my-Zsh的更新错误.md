@@ -11,7 +11,6 @@ slug: update-omz-with-ssh
 summary: 小小的经验
 description: 本文介绍了作者使用 SSH 作为 Oh-my-Zsh 的更新源，用于解决中国大陆更新不畅的问题的过程。
 ---
-# 动手折腾：用SSH解决Oh-my-Zsh的更新错误
 
 Oh my Zsh 的默认更新环境是 HTTPS 的。而由于 GitHub 对国内铀溴的支持，即使是开了科学技术也时常出现访问失败的情况。所幸 GitHub 的 SSH 登录比 HTTPS 靠谱许多，只要有科学技术基本都能成功访问，速度也很好。
 
