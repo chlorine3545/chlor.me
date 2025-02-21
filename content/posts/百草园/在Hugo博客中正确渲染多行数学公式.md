@@ -137,8 +137,6 @@ markup:
 
 然后就可以正确进行渲染了~
 
-[[独立博客选什么域名后缀？.md|ceui]]
-
 ## PS
 
 1. Hugo 官方推荐的方案与这里有所不同，如果你希望能使用 front matter 来控制渲染与否，可以参考[这里](https://gohugo.io/content-management/mathematics/)。

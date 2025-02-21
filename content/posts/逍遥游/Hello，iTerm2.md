@@ -1,7 +1,7 @@
 ---
 title: "Hello，iTerm2"
 date: 2024-05-05T20:18:00
-featuredImage: https://img.clnya.fun/hello-iterm2-cover.webp
+featuredImage: https://img.clnya.fun/cover/hello-iterm2-cover.webp
 slug: hello-iterm2
 categories: ["逍遥游"]
 summary: 找到了一个好用的终端啦

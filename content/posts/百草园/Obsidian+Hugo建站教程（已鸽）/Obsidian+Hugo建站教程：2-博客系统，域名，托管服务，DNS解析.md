@@ -6,7 +6,7 @@ tags:
   - 博客
   - 教程
   - Obsidian
-feature: https://img.clnya.fun/how-to-build-a-blog-2-cover.webp
+feature: https://img.clnya.fun/cover/how-to-build-a-blog-2-cover.webp
 slug: how-to-build-a-blog-2
 summary: Obsidian + Hugo 建站教程第二期
 series: Obsidian+Hugo建站教程（已鸽）

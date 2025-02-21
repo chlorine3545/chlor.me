@@ -12,7 +12,7 @@ tags:
   - 域名
   - 随机性
 slug: weekly-12
-featuredImage: https://img.clnya.fun/weekly-12-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-12-cover.webp
 draft: false
 share: true
 ---

@@ -9,7 +9,7 @@ tags:
 categories: ["逍遥游"]
 slug: hello-rime
 draft: false
-featuredImage: "https://img.clnya.fun/hello-rime-cover.webp"
+featuredImage: "https://img.clnya.fun/cover/hello-rime-cover.webp"
 ---
 # Hello，Rime
 

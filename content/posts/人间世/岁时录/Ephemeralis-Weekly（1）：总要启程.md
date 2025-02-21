@@ -10,7 +10,7 @@ tags:
   - 备案
   - 学习
 slug: weekly-1
-featuredImage: https://img.clnya.fun/weekly-1-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-1-cover.webp
 draft: false
 share: true
 ---

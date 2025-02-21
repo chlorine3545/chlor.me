@@ -7,12 +7,12 @@ tags:
   - Quail
   - 博客
   - 周报
-cover_image_url: https://img.clnya.fun/hello-quail-cover.webp
+cover_image_url: https://img.clnya.fun/cover/hello-quail-cover.webp
 title: Hello，Quail
 date: 2024-07-01
 description: Quail是一个免费且对大陆友好的Newsletter服务，帮助作者与读者保持联系并筹集资金。它支持多种推送方式，具有优秀的编辑器和后台，并计划支持更多功能。作者对Quail表示满意，并将在Quail上发布文章。
 categories: ["逍遥游"]
-featuredImage: https://img.clnya.fun/hello-quail-cover.webp
+featuredImage: https://img.clnya.fun/cover/hello-quail-cover.webp
 draft: false
 share: true
 ---

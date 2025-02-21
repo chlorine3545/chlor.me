@@ -6,7 +6,7 @@ summary: 一次简简单单的换编辑器之旅
 categories: ["逍遥游"]
 description: 本文介绍了 VSCodium，这是一个完全开源且不包含数据收集的 VS Code 替代品。作者讨论了转向 VSCodium 的原因，包括对开源软件和隐私的关注，并提供了安装、设置迁移和扩展换源的指南。最后，作者指出 VSCodium 和 VS Code 在界面和使用上非常相似。
 showTableOfContents: true
-featuredImage: https://img.clnya.fun/hello-vscodium-cover.webp
+featuredImage: https://img.clnya.fun/cover/hello-vscodium-cover.webp
 ---
 
 各位老友们好，我是 Chlorine。

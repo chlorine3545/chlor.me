@@ -8,12 +8,12 @@ tags:
   - 周报
   - 开源
   - 日常
-cover_image_url: https://img.clnya.fun/weekly-3-cover.webp
+cover_image_url: https://img.clnya.fun/cover/weekly-3-cover.webp
 title: Ephemeralis-Weekly（3）：执笔衔书
 date: 2024-07-22
 description: 本文是作者周报的第三期，作者分享了他参与小学期课程的大作业开发新闻客户端的经历。他通过学习教程、魔改代码，克服了时间紧迫和自身知识短缺的困难，最终成功完成了作业。此外，作者还谈到了他的梦想是成立一个自己的开源基金会，并介绍了自己最近想学习的新的编程语言Rust以及他喜欢的美食烤冷面。
 categories: ["人间世"]
-featuredImage: https://img.clnya.fun/weekly-3-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-3-cover.webp
 draft: false
 share: true
 ---

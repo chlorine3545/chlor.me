@@ -10,7 +10,7 @@ tags:
   - Hugo
   - Efímero
   - 折腾
-featuredImage: https://img.clnya.fun/migrating-to-hugo-1-cover.webp
+featuredImage: https://img.clnya.fun/cover/migrating-to-hugo-1-cover.webp
 draft: false
 share: true
 slug: migrating-to-hugo-1

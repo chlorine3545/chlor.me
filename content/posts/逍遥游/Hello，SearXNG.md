@@ -10,7 +10,7 @@ title: Hello，SearXNG
 date: 2024-08-16
 description: 本文讨论如何在内地服务器上使用 1Panel 和 OpenResty 搭建开源的 SearXNG 私有搜索引擎。SearXNG 是一个元搜索引擎，不收集用户数据，并支持本地偏好设置。只需一台服务器、代理和基本配置，便可顺利部署。一些设置包括修改访问密钥、环境变量和代理配置，最终可以将其设置为默认搜索引擎。总体来说，SearXNG 速度可接受，但搜索结果有时不够精准，建议与 DuckDuckGo 搭配使用。
 categories: ["逍遥游"]
-featuredImage: https://img.clnya.fun/hello-searxng-cover.webp
+featuredImage: https://img.clnya.fun/cover/hello-searxng-cover.webp
 draft: false
 share: true
 ---

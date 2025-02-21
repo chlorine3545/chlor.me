@@ -11,7 +11,7 @@ tags:
   - Fediverse
   - 哲学
 slug: weekly-14
-featuredImage: https://img.clnya.fun/weekly-14-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-14-cover.webp
 draft: false
 share: true
 ---

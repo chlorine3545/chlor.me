@@ -12,7 +12,7 @@ tags:
   - 域名
   - 日常
 slug: weekly-13
-featuredImage: https://img.clnya.fun/weekly-13-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-13-cover.webp
 draft: false
 share: true
 ---

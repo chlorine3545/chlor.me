@@ -12,7 +12,7 @@ title: Ephemeralis-Weekly（4）：缝隙之间
 date: 2024-08-02
 description: 浮生散记第四期。作者回顾了自己的假期和工作情况，还介绍了RSS和独立博客的意义。
 categories: ["人间世"]
-featuredImage: https://img.clnya.fun/weekly-4-cover.avif
+featuredImage: https://img.clnya.fun/cover/weekly-4-cover.avif
 draft: false
 share: true
 ---

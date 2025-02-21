@@ -8,12 +8,12 @@ tags:
   - Zen
   - Matrix
   - AIGC
-cover_image_url: https://img.clnya.fun/weekly-6-cover.webp
+cover_image_url: https://img.clnya.fun/cover/weekly-6-cover.webp
 title: Ephemeralis-Weekly（6）：无可热爱
 date: 2024-09-15
 description: 本文是作者周报的第六期，以轻松幽默的语气分享了自己对多种主题的思考和体验。首先，作者介绍了Zen Browser这款新浏览器，虽然其界面设计精致、性能较好，但由于bug频繁且仅处于Alpha阶段，作者对其当前表现略有保留。接着，作者描述了用Rust编写的Matrix服务器实现Conduit的部署体验，指出其轻量高效的优点。随后，作者简评了豆包AI的绘画功能，并分享了自己使用AI生成头像的经历。最后，文章逐渐转向深刻的个人反思，讨论了生活中无谓的琐事、理想与现实的冲突，以及意义感的缺失，表达了对时代与个体生活的质疑、困惑与思考。
 categories: ["人间世"]
-featuredImage: https://img.clnya.fun/weekly-6-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-6-cover.webp
 draft: false
 share: true
 ---

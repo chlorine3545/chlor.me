@@ -7,7 +7,7 @@ tags:
 draft: false
 summary: 除夕快乐！
 toc: false
-featuredImage: https://img.clnya.fun/IMG-20240209190000-0.webp
+featuredImage: https://img.clnya.fun/cover/happy-spring-festival-2024-cover.webp
 slug: happy-spring-festival-2024
 ---
 

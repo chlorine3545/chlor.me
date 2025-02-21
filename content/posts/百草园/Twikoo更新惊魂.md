@@ -4,12 +4,12 @@ datetime: 2024-07-11 21:02
 summary: 抽象的 Twikoo 更新
 tags:
   - Twikoo
-cover_image_url: https://img.clnya.fun/twikoo-update-shock-cover.webp
+cover_image_url: https://img.clnya.fun/cover/twikoo-update-shock-cover.webp
 title: Twikoo更新惊魂
 date: 2024-07-11
 description: 本文介绍了Twikoo评论系统更新导致评论丢失，作者尝试重新部署并成功恢复评论，但未备份数据。作者决定重新创建数据库并导入新的评论，并增加多数据库备份。
 categories: ["百草园"]
-featuredImage: https://img.clnya.fun/twikoo-update-shock-cover.webp
+featuredImage: https://img.clnya.fun/cover/twikoo-update-shock-cover.webp
 draft: false
 share: true
 ---

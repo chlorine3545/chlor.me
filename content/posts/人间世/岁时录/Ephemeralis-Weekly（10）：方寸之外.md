@@ -12,7 +12,7 @@ title: Ephemeralis-Weekly（10）：方寸之外
 date: 2024-10-20
 description: 本文是作者周报的第十期。文章开头提到本期周报内容较少，作者计划多读书以拓展知识边界。接着，作者详细描述了本周的两场defense（答辩），包括学推计划的中期报告和奖学金答辩的准备和经历。意外的是，作者的手机掉进了马桶，引发了一系列的处理和反思，包括手机的应急处理和对生活中数字依赖的思考。文章还探讨了在缺失大量智能手机功能的生活状态下，作者反思了数字生活的必要性，并借助了“零基预算”的概念来审视数字工具的使用。最后，作者回答了关于博客的9个问题，涉及博客的起源、创作过程、动力维持、博客运营成本以及个人兴趣和未来计划等方面。
 categories: ["人间世"]
-featuredImage: https://img.clnya.fun/weekly-10-cover.webp
+featuredImage: https://img.clnya.fun/cover/weekly-10-cover.webp
 draft: false
 share: true
 ---

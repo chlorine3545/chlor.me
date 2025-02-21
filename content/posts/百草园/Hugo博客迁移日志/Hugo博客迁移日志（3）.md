@@ -11,7 +11,7 @@ tags:
   - 浮光
   - 折腾
 slug: migrating-to-hugo-3
-featuredImage: https://img.clnya.fun/migrating-to-hugo-3-cover.webp
+featuredImage: https://img.clnya.fun/cover/migrating-to-hugo-3-cover.webp
 draft: false
 share: true
 ---

@@ -196,8 +196,7 @@ enableCsrf = true
 
         # TODO
         [params.comments.artalk]
-            serverURL = ""
-            siteId = ""
+            server = "https://artalk.viento.cc"
 
     [params.search]
         enable = true
