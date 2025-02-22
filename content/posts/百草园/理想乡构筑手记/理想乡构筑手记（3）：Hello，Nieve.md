@@ -23,8 +23,8 @@ Nieve 这个名字，也是很久以前就想好的。这个词是西班牙语�
 
 ## TL ; DR
 
-- 在 Obsidian 写作时直接粘贴图片，使用 Image Converter 插件自动压缩和重命名
-- 使用 Shell Commands 的自定义脚本上传博客图片到又拍云和 Cloudflare R2
+- 在 Obsidian 写作时粘贴图片前使用 Shell Commands 的自定义脚本压缩图片为 AVIF，并获取压缩后链接。
+- 使用 Shell Commands 的另一个自定义脚本上传博客图片到又拍云和 Cloudflare R2
 - 又拍云作为主图床，Cloudflare R2 作为对外的图片服务和备份图床
 
 ## 前言

@@ -197,7 +197,7 @@ E2EE 邮箱两兄弟，由于有端到端加密，隐私性极好。价格中等
 
 Resend 的配置没有太多好说的，注册账户，配置 DNS 记录再创建 API Key 即可。对于 Twikoo 来说，其使用的 Pushoo 没有对 Resend 的原生支持，因此需要手动配置各项信息。
 
-- `SENDER_EMAIL`： `username@your.domain`
+- `SENDER_EMAIL`： `username@yourdomain.tld`
 - `SMTP_SERVICE`：留空
 - `SMTP_HOST`：`smtp.resend.com`
 - `SMTP_PORT`：465
