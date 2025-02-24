@@ -128,7 +128,7 @@ enableCsrf = true
     [[params.social]]
         name = "Codeberg"
         url = "https://codeberg.org/chlorine"
-        icon = "i-simple-codeberg"
+        icon = "i-simple-icons-codeberg"
         color = "#2185D0"
         enable = true
 
@@ -142,14 +142,14 @@ enableCsrf = true
     [[params.social]]
         name = "Bilibili"
         url = "https://space.bilibili.com/1354054183"
-        icon = "i-simple-bilibili"
+        icon = "i-simple-icons-bilibili"
         color = "#00A1D6"
         enable = true
 
     [[params.social]]
         name = "ORCID"
         url = "https://orcid.org/0009-0005-7611-1633"
-        icon = "i-simple-orcid"
+        icon = "i-simple-icons-orcid"
         color = "#A6CE39"
         enable = true
 
@@ -163,7 +163,7 @@ enableCsrf = true
     [[params.social]]
         name = "Bluesky"
         url = "https://bsky.app/profile/chlor.me"
-        icon = "i-simple-bluesky"
+        icon = "i-simple-icons-bluesky"
         color = "#1DA1F2"
         enable = true
 
