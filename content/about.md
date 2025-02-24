@@ -214,7 +214,7 @@ Banner 和头像由 [Bylo](https://bylo.ai) 和豆包 AI 绘制。
 
 本站目前暂未添加任何统计或分析服务。若未来加入第三方服务（如 Google Analytics）分析网站流量，这些服务可能会收集匿名数据以帮助我们了解用户行为。这些数据仅用于改进我们的网站和服务，不会用于个人身份识别。
 
-本站可能会使用 cookies 来改善您的浏览体验，但这些 cookies 不会包含任何个人信息。如果您不希望接受 cookies，您可以在浏览器设置中禁用它们。
+本站可能会使用 cookies 来改善您的浏……咦，园子有 cookie 吗？好像没有，那没事了。
 
 本站使用 [Twikoo](https://twikoo.js.org) 作为评论系统。该系统基于 [MongoDB](https://mongodb.com) Atlas 存储数据，具体部署地点显示为美利坚合众国俄勒冈州（Oregon, United States）；基于 [Netlify](https://www.netlify.com) 部署云函数，具体部署地点显示为美利坚合众国俄亥俄州（Ohio, United States）。
 
