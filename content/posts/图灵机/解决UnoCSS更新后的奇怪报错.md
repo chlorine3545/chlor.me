@@ -155,6 +155,7 @@ bun i unocss
 <div class="bg-red-500"></div>
 ```
 
+
 ```ts
 import { defineConfig } from 'unocss'
 
