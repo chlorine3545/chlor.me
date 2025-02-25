@@ -219,9 +219,12 @@ enableCsrf = true
     [markup.highlight]
         codeFences = false
     [markup.goldmark]
+        [markup.goldmark.parser]
+            [markup.goldmark.parser.attribute]
+                block = true
         [markup.goldmark.extensions]
             [markup.goldmark.extensions.passthrough]
                 enable = true
                 [markup.goldmark.extensions.passthrough.delimiters]
-                    block = [['$$', '$$']]
+                    block = [['\[', '\]'], ['$$', '$$']]
                     inline = [['$', '$']]

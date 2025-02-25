@@ -15,11 +15,7 @@ wikilinks: true
 ---
 
 > [!IMPORTANT]
-> 本文距离发布已经很久了，在此期间我的数学公式渲染方法出现了变化。我更新了文章的部分内容，使得文章中的方法依然具有基本可用性。在合适的时机我会重写本文。
-
-如果本文的数学公式不渲染，可能是 Swup.js 的问题，刷新页面即可。
-
-—— 2024.11.25
+> 本文所述的方法已经过时，小氯推荐使用 Hugo 原生的 `render-passthrough.html` 处理公式，详见这篇文章。
 
 ---
 
@@ -144,15 +140,11 @@ markup:
 
 下面是一个物理公式的示例：
 
-$$
-d \mathord{ \buildrel{ \lower3pt \hbox{$ \scriptscriptstyle \rightharpoonup$}} \over B} = \frac{{{ \mu _0}}}{{4 \pi }} \frac{{Idl \times \mathord{ \buildrel{ \lower3pt \hbox{$ \scriptscriptstyle \rightharpoonup$}} \over r} }}{{{r^3}}} =  \frac{{{ \mu _0}}}{{4 \pi }} \frac{{Idl \sin \theta }}{{{r^2}}}
-$$
+
 
 下面是一个化学公式的示例：
 
-$$
-\ce{Zn^2+  <=>[+ 2OH-][+ 2H+]  $\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$  <=>[+ 2OH-][+ 2H+]  $\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$}
-$$
+
 
 其真实效果应该是：
 
