@@ -16,7 +16,6 @@ featuredImage: https://img.clnya.fun/cover/weekly-4-cover.avif
 draft: false
 share: true
 ---
-# Ephemeralis-Weekly（4）：缝隙之间
 
 各位老友们好，我是 Chlorine。
 
