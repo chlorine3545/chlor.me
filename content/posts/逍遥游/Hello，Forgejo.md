@@ -21,6 +21,8 @@ featuredImage: https://img.clnya.fun/cover/hello-forgejo-cover.webp
 
 [Forgejo](https://forgejo.org)。
 
+{{< codeberg repo="forgejo/forgejo" >}}
+
 ## 从 Gitea 说起
 
 大家应该都知道 [Gitea](https://gitea.com)，Git with a cup of tea。小氯很喜欢这个名字，有趣且闲适的 Git 服务。当然，因为喜欢名字就去部署一个服务听着像个憨憨，所幸 Gitea 还是很争气的，给了我们更加充足的理由去用它：资源占用少——随便找一台树莓派就足够运行了，爱来自 Golang；功能齐全——GitHub 和 GitLab 有的它基本都有，不管是基本的仓库，还是 issue、PR、Wiki、Project 抑或是 CI/CD。截至小氯写这篇文章，Gitea 已经有了超过 40 万次安装（数据来源：Gitea 官网），堪称最受个人和小型团队欢迎的开源自托管 Git 服务之一。
