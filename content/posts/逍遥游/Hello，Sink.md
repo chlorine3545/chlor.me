@@ -22,16 +22,16 @@ share: true
 
 Sink 是一个完全基于 CloudFlare 的短链接（shortURL）项目，支持数据分析和链接截止日期等多种功能。
 
-啥是短链接？简单来说，如果你觉得小氯的文章[解决Swup导致的JavaScript加载失效问题](https://www.yoghurtlee.com/swup-modifying)写得不错（~~行了我知道你并不这么觉得~~），希望分享给朋友，你很可能会把这个链接直接粘贴给你的朋友：
+啥是短链接？简单来说，如果你觉得小氯的文章[解决Swup导致的JavaScript加载失效问题](https://chlor.me/swup-modifying)写得不错（~~行了我知道你并不这么觉得~~），希望分享给朋友，你很可能会把这个链接直接粘贴给你的朋友：
 
 ```txt
-https://www.yoghurtlee.com/swup-modifying
+https://chlor.me/swup-modifying
 ```
 
 看着还行，不是吗？但是假如小氯的链接是：
 
 ```txt
-https://ameaninglessprefix.averylongurlforyoghurtlee.ameaninglesstldthatdoesntevenexist/ameaninglessdirthatstandsformyposts/anothermeaninglessprefix/2024/07/26/qwertyuiopasdfghjklzxcvbnm1234567890/swup-modifying
+https://ameaninglessprefix.averylongurlforchlorinechan.ameaninglesstldthatdoesntevenexist/ameaninglessdirthatstandsformyposts/anothermeaninglessprefix/2024/07/26/qwertyuiopasdfghjklzxcvbnm1234567890/swup-modifying
 ```
 
 我敢打赌你的朋友看到这个链接就会汗流浃背。
@@ -39,7 +39,8 @@ https://ameaninglessprefix.averylongurlforyoghurtlee.ameaninglesstldthatdoesntev
 但是如果现在你贴心地告诉朋友，这个链接也是一样的：
 
 ```txt
-https://s.clmoe.top/fmf94q
+# 注：我瞎编的
+https://cl.tld/swup
 ```
 
 我相信你们之间的友谊会得到相当程度的强化。

@@ -89,7 +89,7 @@ RSS 的好处大概就是（没错是用 AI 总结的\\逃）：
 
 没错，我还真不怎么知道。大家就姑且认为我精力过剩了吧。反正我现在觉得 RSS 是个蛮好的东西。
 
-如果大家希望通过 RSS 订阅我的博客：<https://www.yoghurtlee.com/index.xml>。
+如果大家希望通过 RSS 订阅我的博客：<https://chlor.me/index.xml>。
 
 ## 缝隙中的人
 

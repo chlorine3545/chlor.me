@@ -155,7 +155,7 @@ enableCsrf = true
 
     [[params.social]]
         name = "Fediverse"
-        url = "https://scg.owu.one/@yoghurtlee"
+        url = "https://scg.owu.one/@chlorine"
         icon = "i-carbon-logo-mastodon"
         color = "#6364FF"
         enable = true
