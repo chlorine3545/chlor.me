@@ -46,14 +46,13 @@ title: 关于
 - Telegram/微博/Facebook/Twitter/Instagram：没有/几乎没有
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
 - Codeberg：[chlorine](https://codeberg.org/chlorine)
-- Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)
+- Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)（半停更）
 - Fediverse：纠结住哪中……
-    - 比较活跃的账号是 [@yoghurtlee@scg.owu.one](https://scg.owu.one/@yoghurtlee)。
+    - 比较活跃的账号是 [@chlorine@scg.owu.one](https://scg.owu.one/@chlorine)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
-- Matrix
-    - 主账号：@chlorine:chat.viento.cc
-    - 备用账号：@chlorine:mtx.owu.one
-- [Jami](https://jami.net)：chlorine3545
+- Matrix：
+    - 主账号（Matrix Say So）：@chlorine:m.sayso.im
+    - 备用账号（Owu Matrix）：@chlorine:mtx.owu.one
 - 邮箱（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - RSS 订阅：点击[这里](/index.xml)。
 - 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
