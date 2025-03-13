@@ -42,8 +42,6 @@ title: 关于
 
 ### 📬 联系方式
 
-- 手机/WeChat/QQ：就不告诉你
-- Telegram/微博/Facebook/Twitter/Instagram：没有/几乎没有
 - GitHub：[chlorine3545](https://github.com/chlorine3545)
 - Codeberg：[chlorine](https://codeberg.org/chlorine)
 - Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)
@@ -58,7 +56,7 @@ title: 关于
 - 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
 
 > [!IMPORTANT]
-> 如果需要和我联系，请优先选择 Email 或 Matrix。我永远不会公开我的微信、QQ 和 Telegram。
+> 如果需要和我联系，请优先选择 Email 或 Matrix。
 
 ### 🔑 OpenPGP Public Key & Fingerprint
 
