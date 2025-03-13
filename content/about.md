@@ -49,8 +49,8 @@ title: 关于
     - 比较活跃的账号是 [@chlorine@scg.owu.one](https://scg.owu.one/@chlorine)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
 - Matrix：
-    - 主账号（Eigen）：@chlorine:eigen.im。
-    - 备用账号（Owu Matrix）：@chlorine:mtx.owu.one
+    - Eigen：@chlorine:eigen.im（尚在完善）
+    - Matrix.org：@chlorchan:matrix.org
 - 邮箱（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - RSS 订阅：点击[这里](/index.xml)。
 - 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
