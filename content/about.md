@@ -48,15 +48,19 @@ title: 关于
 - Fediverse：纠结住哪中……
     - 比较活跃的账号是 [@chlorine@scg.owu.one](https://scg.owu.one/@chlorine)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
-- Matrix：
-    - Eigen：@chlorine:eigen.im（尚在完善）
+- Email（请将 [at] 替换为 @）：`hi[at]本站域名`。
+- Telegram：@chlorine3545
+- [Matrix](https://matrix.org)
+    - Eigen：@chlorine:eigen.im
     - Matrix.org：@chlorchan:matrix.org
-- 邮箱（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - RSS 订阅：点击[这里](/index.xml)。
-- 评论：由 Twikoo 提供支持。请滑到页面最下方。如果没有反应，试着刷新页面~
+- 评论：由 Twikoo 提供支持，请滑到页面最下方。
 
-> [!IMPORTANT]
-> 如果需要和我联系，请优先选择 Email 或 Matrix。
+一些沟通方式的建议：
+
+- 如果希望发表一些关于小氯、园子或者是园子里的植物的评价或者言论，同时不要求绝对的私人性，使用评论即可。
+- 如果希望有一次比较实时的沟通，可以使用 Matrix。如果您喜欢的话，也可以使用 Telegram，但是请注意，小氯**只接受端到端加密的 Chat**。
+- 其他所有情况，请使用 Email。这也是小氯最喜欢的通讯方式。
 
 ### 🔑 OpenPGP Public Key & Fingerprint
 

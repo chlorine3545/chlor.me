@@ -66,6 +66,12 @@ enableCsrf = true
     url = "about"
     weight = 40
 
+[outputs]
+    home = ['html', 'rss']
+    section = ['html']
+    taxonomy = ['html']
+    term = ['html']
+
 [params]
     [params.basic]
         startDate = "12/15/2023 12:00:00"
@@ -131,13 +137,6 @@ enableCsrf = true
         icon = "i-simple-icons-codeberg"
         color = "#2185D0"
         enable = true
-
-    [[params.social]]
-        name = "YouTube"
-        url = "https://www.youtube.com/@hichlorine"
-        icon = "i-carbon-logo-youtube"
-        color = "#FF0000"
-        enable = false
 
     [[params.social]]
         name = "Bilibili"
