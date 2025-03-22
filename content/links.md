@@ -47,7 +47,7 @@ description: 这是作者的个人博客 「园子里的日光」 的友情链�
 
 - 昵称：Chlorine
 - 邮箱：hi[at]本站域名（请手动将 `[at]` 替换为 `@`）
-- 头像：<https://img.viento.cc/avatar/01.webp>。本图片也提供 `.jpeg` 版本，直接更改后缀即可。
+- 头像：<https://img.viento.cc/avatar/02.webp>。本图片也提供 `.jpeg` 版本，直接更改后缀即可。
 - 房间号（如果您有这个机制）：408A，服从分配
 - 岛名：园子里的日光
 - 地址：<https://chlor.me>
