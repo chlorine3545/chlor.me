@@ -17,9 +17,7 @@ title: 关于
 
 目前长居北京，是清华大学计算机与金融双学位班（针班）的一名光荣的~~小白鼠~~学生。
 
-巨蟹座，INFJ/INTJ（能部分 handle 社交）。
-
-喜欢做梦的小镇做题家，幻想成为技术大佬的计算机小白。
+我对星座和 MBTI 之类带或者不带神秘色彩的人格分类持谨慎态度。如果你希望快速地了解小氯是个怎样的人，读这篇 About 或许是个更好的选择。
 
 ### 📙 个人经历
 
@@ -42,19 +40,15 @@ title: 关于
 
 ### 📬 联系方式
 
-- GitHub：[chlorine3545](https://github.com/chlorine3545)
-- Codeberg：[chlorine](https://codeberg.org/chlorine)
-- Bluesky：[@chlor.me](https://bsky.app/profile/chlor.me)
-- Fediverse：纠结住哪中……
+- GitHub: [chlorine3545](https://github.com/chlorine3545)
+- Codeberg: [chlorine](https://codeberg.org/chlorine)
+- Fediverse: 纠结住哪中……
     - 比较活跃的账号是 [@chlorine@scg.owu.one](https://scg.owu.one/@chlorine)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
 - Email（请将 [at] 替换为 @）：`hi[at]本站域名`。
-- Telegram：@chlorine3545
-- [Matrix](https://matrix.org)
-    - Eigen：@chlorine:eigen.im
-    - Matrix.org：@chlorchan:matrix.org
-- RSS 订阅：点击[这里](/index.xml)。
-- 评论：由 Twikoo 提供支持，请滑到页面最下方。
+- Telegram: @chlorine3545
+- [Matrix](https://matrix.org): @chlorchan:matrix.org
+- RSS: 点击[这里](/index.xml)。
 
 一些沟通方式的建议：
 
