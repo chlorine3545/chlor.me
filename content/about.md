@@ -45,9 +45,12 @@ title: 关于
 - Fediverse: 纠结住哪中……
     - 比较活跃的账号是 [@chlorine@scg.owu.one](https://scg.owu.one/@chlorine)。
     - 偶尔在 [OwKey](https://msk.owu.one) 蹦跶：[@chlorine@msk.owu.one](https://msk.owu.one/@chlorine)。
+- Bluesky: [@chlor.me](https://bsky.app/profile/chlor.me)
 - Email（请将 [at] 替换为 @）：`hi[at]本站域名`。
 - Telegram: @chlorine3545
-- [Matrix](https://matrix.org): @chlorchan:matrix.org
+- [Matrix](https://matrix.org)
+  - 主账号: @chlorine:eigen.im
+  - 备用账号: @chlorchan:matrix.org
 - RSS: 点击[这里](/index.xml)。
 
 一些沟通方式的建议：
